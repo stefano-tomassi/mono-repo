@@ -18,16 +18,5 @@
       "es2018",
       "dom"
     ],
-    "paths": {
-      "@first": [
-        "./projects/first-application/src/app*"
-      ],
-      "@second": [
-        "./projects/second-application/src/app*"
-      ],
-      "@library": [
-        "./projects/library/src/app*"
-      ],
-    }
   }
 }
