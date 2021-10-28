@@ -7,7 +7,9 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "start:first":"ng serve --project=first-application --port 4000",
+    "start:second":"ng serve --project=second-application --port 4100"
   },
   "private": true,
   "dependencies": {
