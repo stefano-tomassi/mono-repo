@@ -1,7 +1,7 @@
 # mono-repo
 mono repo exercise
 
-# to do 
+# to run from the stetom folder
 
 ng build
 
